@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="1000dp" /> <!-- 1000dp to ensure perfectly circular ends / capsule shape -->
+    <solid android:color="#00000000" /> <!-- Fully transparent inside -->
+    <stroke
+        android:width="4dp"
+        android:color="#B3FFFFFF" /> <!-- Semi-transparent white border for glass effect -->
+</shape>

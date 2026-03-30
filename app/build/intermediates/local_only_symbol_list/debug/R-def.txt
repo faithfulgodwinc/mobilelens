@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color accent_gold
+color accent_pro_blue
+color bg_clean
+color bg_soft
+color border_light
+color status_green_clean
+color surface_glass_light
+color text_main
+color text_sub
+drawable glass_frame
+drawable ic_lens_placeholder
+id btn_launch_lens
+id card_status
+id magnifier_card
+id magnifier_surface
+id main_content
+id overlay_root
+id tv_subtitle
+id tv_title
+layout activity_main
+layout overlay_layout
+string app_name
+style Base.Theme.MobileLens
+style Theme.MobileLens

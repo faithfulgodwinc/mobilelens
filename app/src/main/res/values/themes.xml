@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MobileLens" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/accent_pro_blue</item>
+        <item name="android:statusBarColor">@color/bg_clean</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/bg_clean</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">@color/bg_clean</item>
+    </style>
+    <style name="Theme.MobileLens" parent="Base.Theme.MobileLens" />
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\others\\.gradle\\daemon\\8.4\\com.example.mobilelens.app-merged_res-31:\\layout_overlay_layout.xml.flat",
+        "source": "C:\\Users\\others\\.gradle\\daemon\\8.4\\com.example.mobilelens.app-main-33:\\layout\\overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\others\\.gradle\\daemon\\8.4\\com.example.mobilelens.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\others\\.gradle\\daemon\\8.4\\com.example.mobilelens.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\others\\.gradle\\daemon\\8.4\\com.example.mobilelens.app-merged_res-31:\\drawable_ic_lens_placeholder.xml.flat",
+        "source": "C:\\Users\\others\\.gradle\\daemon\\8.4\\com.example.mobilelens.app-main-33:\\drawable\\ic_lens_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\others\\.gradle\\daemon\\8.4\\com.example.mobilelens.app-merged_res-31:\\drawable_glass_frame.xml.flat",
+        "source": "C:\\Users\\others\\.gradle\\daemon\\8.4\\com.example.mobilelens.app-main-33:\\drawable\\glass_frame.xml"
+    },
+    {
+        "merged": "com.example.mobilelens.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.mobilelens.app-main-33:/layout/activity_main.xml"
+    }
+]

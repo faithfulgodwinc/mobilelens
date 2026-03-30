@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_gold">#F59E0B</color>
+    <color name="accent_pro_blue">#2563EB</color>
+    <color name="bg_clean">#FFFFFF</color>
+    <color name="bg_soft">#F8FAFC</color>
+    <color name="border_light">#CBD5E1</color>
+    <color name="status_green_clean">#10B981</color>
+    <color name="surface_glass_light">#E2E8F0</color>
+    <color name="text_main">#0F172A</color>
+    <color name="text_sub">#64748B</color>
+    <string name="app_name">Mobile Lens</string>
+    <style name="Base.Theme.MobileLens" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/accent_pro_blue</item>
+        <item name="android:statusBarColor">@color/bg_clean</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/bg_clean</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">@color/bg_clean</item>
+    </style>
+    <style name="Theme.MobileLens" parent="Base.Theme.MobileLens"/>
+</resources>
